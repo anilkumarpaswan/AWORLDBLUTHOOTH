@@ -1,0 +1,2 @@
+rootProject.name = "AWORLD BLUETOOTH"
+include ':app'

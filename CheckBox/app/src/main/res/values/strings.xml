@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+
+    <string name="check1">Anil</string>
+    <string name="check2">Manoj</string>
+    <string name="check3">Amit</string>
+    <string name="check4">Ankush</string>
+    <string name="check5">Choklet</string>
+    <string name="Value">Select value</string>
+
+</resources>
